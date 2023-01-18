@@ -35,6 +35,8 @@ input{
     background-color: rgba(170, 157, 255, 0.222);
     width: 250px;
     height: 25px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 input:hover{
     background-color:rgba(170, 157, 255, 0.429) ;
@@ -52,6 +54,9 @@ li.totalper{
     text-align: center;
     padding-top: 2px;
     border-radius: 50%;
+}
+.circle:hover{
+    background-color:rgb(196, 187, 252) ;
 }
 .dollar{
     padding-left: 150px;
