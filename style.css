@@ -10,7 +10,49 @@ html{
     border-radius: 20px;
     margin: auto; 
     margin-top: 150px;
-    text-align: center;
     box-shadow:  2px 2px 8px #2e2e2e;
     
+}
+h2{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-family:   "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+p{
+    color: white;
+    font-family:   "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    font-family:   "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+}
+input{
+    border-radius: 15px;
+    background-color: rgba(170, 157, 255, 0.222);
+    width: 250px;
+    height: 25px;
+}
+input:hover{
+    background-color:rgba(170, 157, 255, 0.429) ;
+}
+
+li.totalper{
+    padding-left: 100px;
+}
+.circle{
+    background-color: rgba(170, 157, 255, 1);
+    color: black;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 2px;
+    border-radius: 50%;
+}
+.dollar{
+    padding-left: 150px;
 }
